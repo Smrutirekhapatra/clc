@@ -1,0 +1,76 @@
+ @media print
+  {
+    .pf
+    {
+      width:484px;
+    }
+    .name
+    {
+      width:734px;
+    }
+    .clas
+    {
+      width:733px;
+    }
+    .clgroll
+    {
+     width:650px;
+    }
+    .proll
+    {
+      width:593px;
+    }
+   
+    .year
+    {
+      width:617px;
+    }
+   
+     .division
+    {
+      width:200px;
+      color:#000;
+      text-align:center;
+     
+    }
+    }
+    .subject
+    {
+    width:742px;
+    }
+   .money
+   {
+    width:250px;
+   }
+   .main
+   {
+   position: absolute;
+   left:5%;
+   top:0%;
+   }
+   .proforma{
+      color:#fff;
+     
+      background-color: #000 ;
+      -webkit-print-color-adjust:exact;
+      -moz-print-color-adjust:exact;
+    }
+    .print
+    {
+      display:none;
+    }
+    .signature
+    {
+      margin-left:600px;
+    }
+    .money
+    {
+      line-height:26px;
+    }
+    input
+    {
+      text-align:justify;
+      text-justify:inter-word;
+    }
+
+  }

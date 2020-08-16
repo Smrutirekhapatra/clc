@@ -1,0 +1,129 @@
+*
+  {
+    margin:0;
+    padding:0;
+  }
+  body
+  {
+    background: ghostwhite;
+  }
+  .main
+  {
+    position: absolute;
+    top:0%;
+    left:20%;
+    min-height: 300px;
+  }
+   .un
+  {
+    font:black;
+    font-size:25px;
+    text-transform: uppercase;
+    text-shadow:2px 2px 2px 2px black;
+    word-spacing: 9px;
+  }
+  .add{
+    font:black;
+    font-size:20px;
+    margin-left:196px;
+    margin-top:0;
+    word-spacing: 9px;
+  }
+ .proforma{
+    color:#fff;
+    font-size:20px;
+    margin-top:0px;
+    padding:10px;
+    background:black;
+    width:800px;
+    word-spacing:10px;
+  }
+  .img{
+    margin-left:325px;
+  }
+  .main .form
+  {
+    margin-top:5px;
+    margin-left: 80px;
+  }
+  ::-webkit-input-placeholder
+  {
+    color:#000;
+    font-weight:bold;
+    opacity: 0.9;
+  }
+   ::-moz-input-placeholder
+  {
+    color:#000;
+    font-weight:bold;
+    opacity: 0.9;
+  }
+  input
+  {
+    width:600px;
+    height:19px;
+    padding:10px;
+    border-radius: 5px 5px 5px 5px;
+    font-size:18px;
+    border:3px solid black;
+     margin:10px;
+  }
+  input:hover
+  {
+    box-shadow: 4px 4px 4px black;
+
+  }
+  .button
+  {
+    margin-top: 5px;
+    margin-left: 273px;
+    width:90px;
+    height:40px;
+    background: rgb(0,0,98);
+    color:#fff;
+    font-size:20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 5px 5px 5px 5px; 
+  }
+ 
+  
+  span
+  {
+    color:red;
+    font-size:20px;
+    font-weight: bold;
+  }
+  .lbl
+  {
+    border:3px solid transparent;
+    border-right:none;
+    width:12px;
+    height:42px;
+    color:#000;
+    font-weight: bold;
+    font-size:20px;
+    opacity: 0.9;
+    box-sizing:border-box;
+    padding:5px;
+    margin-bottom:20px;
+    margin-top: 20px;
+
+  }
+  .slt
+  {
+    border:3px solid black;
+    width:120px;
+    height:40px;
+    box-sizing:border-box;
+    border-radius: 5px 5px 5px 5px;
+    padding:4px;
+    color:black;
+    font-weight:bold;
+    font-size:15px;
+  }
+  .slt:hover
+  {
+    box-shadow: 4px 4px 4px black;
+
+  }
